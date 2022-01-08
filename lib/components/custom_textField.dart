@@ -35,8 +35,8 @@ class CustomTextField extends StatelessWidget {
                   ),
                   Container(
                       margin: const EdgeInsets.symmetric(horizontal: 5),
-                      height: size.height * 0.01,
-                      width: 3,
+                      height: size.height * 0.04,
+                      width: 2,
                       color: ColorConfig.kenableBorder),
                 ],
               ),
