@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314658863259",
+    "project_id": "jmm-task",
+    "storage_bucket": "jmm-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314658863259:android:89cfe04cec5d60f9c56e3e",
+        "android_client_info": {
+          "package_name": "com.example.jmm_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314658863259-19dpk6up6h6pdsj4lv6rjgh5c8j64kp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDBGHESi3fgv2ctylczbwe7zPTeySEj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314658863259-19dpk6up6h6pdsj4lv6rjgh5c8j64kp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
